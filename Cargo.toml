@@ -31,7 +31,7 @@ git = "https://github.com/pistondevelopers/input"
 
 [dependencies.event]
 
-git = "https://github.com/pistondevelopers/event"
+git = "https://github.com/bpicolo/event"
 
 [dependencies.shader_version]
 
